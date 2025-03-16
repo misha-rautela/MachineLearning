@@ -1,3 +1,6 @@
+# Use Case: Predicting continuous values.
+# Example: Predicting house prices based on features like area, number of rooms, etc.
+
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 from sklearn.datasets import load_boston
